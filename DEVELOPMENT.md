@@ -6,7 +6,7 @@
 
 ## 入口
 
-画像・音声・映像・BlenderファイルはGit LFSで管理します。Git LFSを導入して `git lfs install --local`、clone後は `git lfs pull` を実行してください。初回のadd時にLFSへ格納されます。動画の元素材は出典と配布許諾を確認してから共有してください。
+画像・音声・映像・BlenderファイルはGit LFSで公開しています。Git LFSを導入して `git lfs install`、clone後に必要なら `git lfs pull` を実行してください。LFSデータは約1.5 GiBです。動画の元素材を追加する場合は出典と配布許諾を確認してください。
 
 - [aquabeacon-brand/README.md](aquabeacon-brand/README.md)
 - [aquabeacon-film60/README.md](aquabeacon-film60/README.md)
