@@ -1,0 +1,1095 @@
+{
+  "archive": "C:\\Users\\ryupc\\Downloads\\Photos-1-001 (3).zip",
+  "archive_bytes": 166804275,
+  "files": [
+    {
+      "source": "source/IMG_7976.HEIC",
+      "bytes": 2209773,
+      "sha256": "99c25ea45f6f7338ae0ff948446b1fb50ff1a8b13471293595960c4cc49e100a",
+      "type": "photo",
+      "actual_format": "JPEG",
+      "source_dimensions": [
+        4284,
+        5712
+      ],
+      "source_mode": "RGB",
+      "exif": {
+        "ResolutionUnit": "2",
+        "ExifOffset": "226",
+        "Make": "Apple",
+        "Model": "iPhone 15 Plus",
+        "Software": "26.5",
+        "Orientation": "1",
+        "DateTime": "2026:09:20 00:06:12",
+        "XResolution": "72.0",
+        "YResolution": "72.0",
+        "HostComputer": "iPhone 15 Plus"
+      },
+      "has_mp_auxiliary_metadata": true,
+      "color_note": "HEIC extension but actual JPEG signature; SDR primary RGB image. Auxiliary gain-map metadata is not used.",
+      "source_color_profile": "Display P3",
+      "jpeg": "photos/IMG_7976.jpg",
+      "dimensions": [
+        4284,
+        5712
+      ],
+      "output_color": "8-bit SDR sRGB JPEG, converted from embedded Display P3 ICC"
+    },
+    {
+      "source": "source/IMG_7976.MP4",
+      "bytes": 4568628,
+      "sha256": "e6b6718051ef4b5746a0d04671c1c7654841dc52a74417c9f5386edf5a0388cf",
+      "type": "video",
+      "probe": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "hevc",
+            "codec_long_name": "H.265 / HEVC (High Efficiency Video Coding)",
+            "profile": "Main",
+            "codec_type": "video",
+            "codec_time_base": "147/4300",
+            "codec_tag_string": "hvc1",
+            "codec_tag": "0x31637668",
+            "width": 1920,
+            "height": 1440,
+            "coded_width": 1920,
+            "coded_height": 1440,
+            "has_b_frames": 2,
+            "pix_fmt": "yuvj420p",
+            "level": 150,
+            "color_range": "pc",
+            "color_space": "smpte170m",
+            "color_transfer": "bt709",
+            "color_primaries": "smpte432",
+            "refs": 1,
+            "r_frame_rate": "359/12",
+            "avg_frame_rate": "4300/147",
+            "time_base": "1/600",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 1764,
+            "duration": "2.940000",
+            "bit_rate": "11584391",
+            "nb_frames": "86",
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0
+            },
+            "tags": {
+              "rotate": "90",
+              "creation_time": "2026-09-19T15:06:12.000000Z",
+              "language": "und",
+              "handler_name": "Core Media Video",
+              "encoder": "HEVC"
+            },
+            "side_data_list": [
+              {
+                "side_data_type": "Display Matrix",
+                "displaymatrix": "\n00000000:            0       65536           0\n00000001:       -65536           0           0\n00000002:     94371840           0  1073741824\n",
+                "rotation": -90
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "codec_name": "pcm_s16le",
+            "codec_long_name": "PCM signed 16-bit little-endian",
+            "codec_type": "audio",
+            "codec_time_base": "1/48000",
+            "codec_tag_string": "lpcm",
+            "codec_tag": "0x6d63706c",
+            "sample_fmt": "s16",
+            "sample_rate": "48000",
+            "channels": 1,
+            "bits_per_sample": 16,
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/48000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 141040,
+            "duration": "2.938333",
+            "bit_rate": "768000",
+            "nb_frames": "141127",
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0
+            },
+            "tags": {
+              "creation_time": "2026-09-19T15:06:12.000000Z",
+              "language": "und",
+              "handler_name": "Core Media Audio"
+            }
+          }
+        ],
+        "format": {
+          "filename": "C:\\Users\\ryupc\\WorkSpace\\Mitou26\\AquaBeacon-OSS\\assets\\aquabeacon-film60\\media\\source\\IMG_7976.MP4",
+          "nb_streams": 2,
+          "nb_programs": 0,
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "format_long_name": "QuickTime / MOV",
+          "start_time": "0.000000",
+          "duration": "2.940000",
+          "size": "4568628",
+          "bit_rate": "12431640",
+          "probe_score": 100,
+          "tags": {
+            "major_brand": "qt  ",
+            "minor_version": "0",
+            "compatible_brands": "qt  ",
+            "creation_time": "2026-09-19T15:06:12.000000Z"
+          }
+        }
+      },
+      "duration_seconds": 2.94,
+      "review_times": [
+        0.2,
+        0.735,
+        1.47,
+        2.205,
+        2.7929999999999997
+      ],
+      "thumb_sheet": "thumbs/IMG_7976_sheet.jpg",
+      "hdr_detected": false,
+      "selected_clip": {
+        "path": "selected_clips/electronics_full_sdr.mp4",
+        "source_start": 0,
+        "source_end": 2.94,
+        "tonemap": null,
+        "format": "H.264 8-bit yuv420p BT.709 SDR, 30 fps, AAC",
+        "probe": {
+          "streams": [
+            {
+              "index": 0,
+              "codec_name": "h264",
+              "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+              "profile": "High",
+              "codec_type": "video",
+              "codec_time_base": "1/60",
+              "codec_tag_string": "avc1",
+              "codec_tag": "0x31637661",
+              "width": 810,
+              "height": 1080,
+              "coded_width": 816,
+              "coded_height": 1088,
+              "has_b_frames": 2,
+              "sample_aspect_ratio": "1:1",
+              "display_aspect_ratio": "3:4",
+              "pix_fmt": "yuv420p",
+              "level": 31,
+              "color_range": "tv",
+              "color_space": "bt709",
+              "color_transfer": "bt709",
+              "color_primaries": "bt709",
+              "chroma_location": "left",
+              "refs": 1,
+              "is_avc": "true",
+              "nal_length_size": "4",
+              "r_frame_rate": "30/1",
+              "avg_frame_rate": "30/1",
+              "time_base": "1/15360",
+              "start_pts": 0,
+              "start_time": "0.000000",
+              "duration_ts": 45056,
+              "duration": "2.933333",
+              "bit_rate": "3507169",
+              "bits_per_raw_sample": "8",
+              "nb_frames": "88",
+              "disposition": {
+                "default": 1,
+                "dub": 0,
+                "original": 0,
+                "comment": 0,
+                "lyrics": 0,
+                "karaoke": 0,
+                "forced": 0,
+                "hearing_impaired": 0,
+                "visual_impaired": 0,
+                "clean_effects": 0,
+                "attached_pic": 0,
+                "timed_thumbnails": 0
+              },
+              "tags": {
+                "language": "und",
+                "handler_name": "VideoHandler"
+              }
+            },
+            {
+              "index": 1,
+              "codec_name": "aac",
+              "codec_long_name": "AAC (Advanced Audio Coding)",
+              "profile": "LC",
+              "codec_type": "audio",
+              "codec_time_base": "1/48000",
+              "codec_tag_string": "mp4a",
+              "codec_tag": "0x6134706d",
+              "sample_fmt": "fltp",
+              "sample_rate": "48000",
+              "channels": 1,
+              "channel_layout": "mono",
+              "bits_per_sample": 0,
+              "r_frame_rate": "0/0",
+              "avg_frame_rate": "0/0",
+              "time_base": "1/48000",
+              "start_pts": 0,
+              "start_time": "0.000000",
+              "duration_ts": 141120,
+              "duration": "2.940000",
+              "bit_rate": "159879",
+              "max_bit_rate": "160000",
+              "nb_frames": "139",
+              "disposition": {
+                "default": 1,
+                "dub": 0,
+                "original": 0,
+                "comment": 0,
+                "lyrics": 0,
+                "karaoke": 0,
+                "forced": 0,
+                "hearing_impaired": 0,
+                "visual_impaired": 0,
+                "clean_effects": 0,
+                "attached_pic": 0,
+                "timed_thumbnails": 0
+              },
+              "tags": {
+                "language": "und",
+                "handler_name": "SoundHandler"
+              }
+            }
+          ],
+          "format": {
+            "filename": "C:\\Users\\ryupc\\WorkSpace\\Mitou26\\AquaBeacon-OSS\\assets\\aquabeacon-film60\\media\\selected_clips\\electronics_full_sdr.mp4",
+            "nb_streams": 2,
+            "nb_programs": 0,
+            "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+            "format_long_name": "QuickTime / MOV",
+            "start_time": "0.000000",
+            "duration": "2.962000",
+            "size": "1349762",
+            "bit_rate": "3645542",
+            "probe_score": 100,
+            "tags": {
+              "major_brand": "isom",
+              "minor_version": "512",
+              "compatible_brands": "isomiso2avc1mp41",
+              "encoder": "Lavf58.29.100"
+            }
+          }
+        }
+      }
+    },
+    {
+      "source": "source/IMG_7978.HEIC",
+      "bytes": 2937784,
+      "sha256": "42c15b4f4e0e6267833c33f711bf91fd31a05a4914f942b1f5a1247db7b047c3",
+      "type": "photo",
+      "actual_format": "JPEG",
+      "source_dimensions": [
+        4284,
+        5712
+      ],
+      "source_mode": "RGB",
+      "exif": {
+        "ResolutionUnit": "2",
+        "ExifOffset": "226",
+        "Make": "Apple",
+        "Model": "iPhone 15 Plus",
+        "Software": "26.5",
+        "Orientation": "1",
+        "DateTime": "2026:09:20 15:33:57",
+        "XResolution": "72.0",
+        "YResolution": "72.0",
+        "HostComputer": "iPhone 15 Plus"
+      },
+      "has_mp_auxiliary_metadata": true,
+      "color_note": "HEIC extension but actual JPEG signature; SDR primary RGB image. Auxiliary gain-map metadata is not used.",
+      "source_color_profile": "Display P3",
+      "jpeg": "photos/IMG_7978.jpg",
+      "dimensions": [
+        4284,
+        5712
+      ],
+      "output_color": "8-bit SDR sRGB JPEG, converted from embedded Display P3 ICC"
+    },
+    {
+      "source": "source/IMG_7980.MOV",
+      "bytes": 116236735,
+      "sha256": "f0fc70f62accaefbab89f4a020f33fe8c5ccdf3627025259e7b2805ebfcf53a2",
+      "type": "video",
+      "probe": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "hevc",
+            "codec_long_name": "H.265 / HEVC (High Efficiency Video Coding)",
+            "profile": "Main 10",
+            "codec_type": "video",
+            "codec_time_base": "7353/220600",
+            "codec_tag_string": "hvc1",
+            "codec_tag": "0x31637668",
+            "width": 3840,
+            "height": 2160,
+            "coded_width": 3840,
+            "coded_height": 2160,
+            "has_b_frames": 2,
+            "pix_fmt": "yuv420p10le",
+            "level": 150,
+            "color_range": "tv",
+            "color_space": "bt2020nc",
+            "color_transfer": "arib-std-b67",
+            "color_primaries": "bt2020",
+            "refs": 1,
+            "r_frame_rate": "30/1",
+            "avg_frame_rate": "220600/7353",
+            "time_base": "1/600",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 22058,
+            "duration": "36.763333",
+            "bit_rate": "25038497",
+            "nb_frames": "1103",
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0
+            },
+            "tags": {
+              "creation_time": "2026-09-20T06:37:44.000000Z",
+              "language": "und",
+              "handler_name": "Core Media Video",
+              "encoder": "HEVC"
+            }
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_long_name": "AAC (Advanced Audio Coding)",
+            "profile": "LC",
+            "codec_type": "audio",
+            "codec_time_base": "1/48000",
+            "codec_tag_string": "mp4a",
+            "codec_tag": "0x6134706d",
+            "sample_fmt": "fltp",
+            "sample_rate": "48000",
+            "channels": 2,
+            "channel_layout": "stereo",
+            "bits_per_sample": 0,
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/48000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 1764640,
+            "duration": "36.763333",
+            "bit_rate": "176807",
+            "max_bit_rate": "192000",
+            "nb_frames": "1726",
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0
+            },
+            "tags": {
+              "creation_time": "2026-09-20T06:37:44.000000Z",
+              "language": "und",
+              "handler_name": "Core Media Audio"
+            }
+          }
+        ],
+        "format": {
+          "filename": "C:\\Users\\ryupc\\WorkSpace\\Mitou26\\AquaBeacon-OSS\\assets\\aquabeacon-film60\\media\\source\\IMG_7980.MOV",
+          "nb_streams": 2,
+          "nb_programs": 0,
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "format_long_name": "QuickTime / MOV",
+          "start_time": "0.000000",
+          "duration": "36.763333",
+          "size": "116236735",
+          "bit_rate": "25294058",
+          "probe_score": 100,
+          "tags": {
+            "major_brand": "qt  ",
+            "minor_version": "0",
+            "compatible_brands": "qt  ",
+            "creation_time": "2026-09-20T06:37:44.000000Z"
+          }
+        }
+      },
+      "duration_seconds": 36.763333,
+      "review_times": [
+        1.8381666500000002,
+        9.19083325,
+        18.3816665,
+        27.572499750000002,
+        34.92516635
+      ],
+      "thumb_sheet": "thumbs/IMG_7980_sheet.jpg",
+      "hdr_detected": true,
+      "selected_clip": {
+        "path": "selected_clips/assembly_24-32_sdr.mp4",
+        "source_start": 24,
+        "source_end": 32,
+        "tonemap": "Hable, linear npl=100, no desaturation, BT.709",
+        "format": "H.264 8-bit yuv420p BT.709 SDR, 30 fps, AAC",
+        "probe": {
+          "streams": [
+            {
+              "index": 0,
+              "codec_name": "h264",
+              "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+              "profile": "High",
+              "codec_type": "video",
+              "codec_time_base": "1/60",
+              "codec_tag_string": "avc1",
+              "codec_tag": "0x31637661",
+              "width": 1920,
+              "height": 1080,
+              "coded_width": 1920,
+              "coded_height": 1088,
+              "has_b_frames": 2,
+              "sample_aspect_ratio": "1:1",
+              "display_aspect_ratio": "16:9",
+              "pix_fmt": "yuv420p",
+              "level": 40,
+              "color_range": "tv",
+              "color_space": "bt709",
+              "color_transfer": "bt709",
+              "color_primaries": "bt709",
+              "chroma_location": "left",
+              "refs": 1,
+              "is_avc": "true",
+              "nal_length_size": "4",
+              "r_frame_rate": "30/1",
+              "avg_frame_rate": "30/1",
+              "time_base": "1/15360",
+              "start_pts": 0,
+              "start_time": "0.000000",
+              "duration_ts": 122880,
+              "duration": "8.000000",
+              "bit_rate": "11388206",
+              "bits_per_raw_sample": "8",
+              "nb_frames": "240",
+              "disposition": {
+                "default": 1,
+                "dub": 0,
+                "original": 0,
+                "comment": 0,
+                "lyrics": 0,
+                "karaoke": 0,
+                "forced": 0,
+                "hearing_impaired": 0,
+                "visual_impaired": 0,
+                "clean_effects": 0,
+                "attached_pic": 0,
+                "timed_thumbnails": 0
+              },
+              "tags": {
+                "language": "und",
+                "handler_name": "VideoHandler"
+              }
+            },
+            {
+              "index": 1,
+              "codec_name": "aac",
+              "codec_long_name": "AAC (Advanced Audio Coding)",
+              "profile": "LC",
+              "codec_type": "audio",
+              "codec_time_base": "1/48000",
+              "codec_tag_string": "mp4a",
+              "codec_tag": "0x6134706d",
+              "sample_fmt": "fltp",
+              "sample_rate": "48000",
+              "channels": 2,
+              "channel_layout": "stereo",
+              "bits_per_sample": 0,
+              "r_frame_rate": "0/0",
+              "avg_frame_rate": "0/0",
+              "time_base": "1/48000",
+              "start_pts": 0,
+              "start_time": "0.000000",
+              "duration_ts": 384000,
+              "duration": "8.000000",
+              "bit_rate": "162040",
+              "max_bit_rate": "162040",
+              "nb_frames": "376",
+              "disposition": {
+                "default": 1,
+                "dub": 0,
+                "original": 0,
+                "comment": 0,
+                "lyrics": 0,
+                "karaoke": 0,
+                "forced": 0,
+                "hearing_impaired": 0,
+                "visual_impaired": 0,
+                "clean_effects": 0,
+                "attached_pic": 0,
+                "timed_thumbnails": 0
+              },
+              "tags": {
+                "language": "und",
+                "handler_name": "SoundHandler"
+              }
+            }
+          ],
+          "format": {
+            "filename": "C:\\Users\\ryupc\\WorkSpace\\Mitou26\\AquaBeacon-OSS\\assets\\aquabeacon-film60\\media\\selected_clips\\assembly_24-32_sdr.mp4",
+            "nb_streams": 2,
+            "nb_programs": 0,
+            "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+            "format_long_name": "QuickTime / MOV",
+            "start_time": "0.000000",
+            "duration": "8.022000",
+            "size": "11560864",
+            "bit_rate": "11529158",
+            "probe_score": 100,
+            "tags": {
+              "major_brand": "isom",
+              "minor_version": "512",
+              "compatible_brands": "isomiso2avc1mp41",
+              "encoder": "Lavf58.29.100"
+            }
+          }
+        }
+      }
+    },
+    {
+      "source": "source/IMG_7982.HEIC",
+      "bytes": 3265332,
+      "sha256": "7ded27fdbd200207cf1cbd1cf8ff5680e6943b74c815097395613f834d19bc93",
+      "type": "photo",
+      "actual_format": "JPEG",
+      "source_dimensions": [
+        4284,
+        5712
+      ],
+      "source_mode": "RGB",
+      "exif": {
+        "ResolutionUnit": "2",
+        "ExifOffset": "226",
+        "Make": "Apple",
+        "Model": "iPhone 15 Plus",
+        "Software": "26.5",
+        "Orientation": "1",
+        "DateTime": "2026:09:21 10:13:31",
+        "XResolution": "72.0",
+        "YResolution": "72.0",
+        "HostComputer": "iPhone 15 Plus"
+      },
+      "has_mp_auxiliary_metadata": true,
+      "color_note": "HEIC extension but actual JPEG signature; SDR primary RGB image. Auxiliary gain-map metadata is not used.",
+      "source_color_profile": "Display P3",
+      "jpeg": "photos/IMG_7982.jpg",
+      "dimensions": [
+        4284,
+        5712
+      ],
+      "output_color": "8-bit SDR sRGB JPEG, converted from embedded Display P3 ICC"
+    },
+    {
+      "source": "source/IMG_7986.HEIC",
+      "bytes": 4633794,
+      "sha256": "a4bdc03fd0c7f832f9d9610fb0c248381537d8d35f634fbd0a1db9b471ef1ede",
+      "type": "photo",
+      "actual_format": "JPEG",
+      "source_dimensions": [
+        5712,
+        4284
+      ],
+      "source_mode": "RGB",
+      "exif": {
+        "ResolutionUnit": "2",
+        "ExifOffset": "226",
+        "Make": "Apple",
+        "Model": "iPhone 15 Plus",
+        "Software": "26.5",
+        "Orientation": "1",
+        "DateTime": "2026:09:21 10:41:48",
+        "XResolution": "72.0",
+        "YResolution": "72.0",
+        "HostComputer": "iPhone 15 Plus"
+      },
+      "has_mp_auxiliary_metadata": true,
+      "color_note": "HEIC extension but actual JPEG signature; SDR primary RGB image. Auxiliary gain-map metadata is not used.",
+      "source_color_profile": "Display P3",
+      "jpeg": "photos/IMG_7986.jpg",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "output_color": "8-bit SDR sRGB JPEG, converted from embedded Display P3 ICC"
+    },
+    {
+      "source": "source/IMG_8005.HEIC",
+      "bytes": 3151460,
+      "sha256": "c62ad80b789f48c946bb62e3aa297b058f41a8f71ac2652ada6bdccefe6cf6de",
+      "type": "photo",
+      "actual_format": "JPEG",
+      "source_dimensions": [
+        4284,
+        5712
+      ],
+      "source_mode": "RGB",
+      "exif": {
+        "ResolutionUnit": "2",
+        "ExifOffset": "226",
+        "Make": "Apple",
+        "Model": "iPhone 15 Plus",
+        "Software": "26.5",
+        "Orientation": "1",
+        "DateTime": "2026:09:21 16:42:37",
+        "XResolution": "72.0",
+        "YResolution": "72.0",
+        "HostComputer": "iPhone 15 Plus"
+      },
+      "has_mp_auxiliary_metadata": true,
+      "color_note": "HEIC extension but actual JPEG signature; SDR primary RGB image. Auxiliary gain-map metadata is not used.",
+      "source_color_profile": "Display P3",
+      "jpeg": "photos/IMG_8005.jpg",
+      "dimensions": [
+        4284,
+        5712
+      ],
+      "output_color": "8-bit SDR sRGB JPEG, converted from embedded Display P3 ICC"
+    },
+    {
+      "source": "source/IMG_8008.HEIC",
+      "bytes": 3088578,
+      "sha256": "4c1bf3ebd00d7529a1de95fc0aff5242e88e3aaa49082c9265b1de88100e428c",
+      "type": "photo",
+      "actual_format": "JPEG",
+      "source_dimensions": [
+        4284,
+        5712
+      ],
+      "source_mode": "RGB",
+      "exif": {
+        "ResolutionUnit": "2",
+        "ExifOffset": "226",
+        "Make": "Apple",
+        "Model": "iPhone 15 Plus",
+        "Software": "26.5",
+        "Orientation": "1",
+        "DateTime": "2026:09:21 16:42:59",
+        "XResolution": "72.0",
+        "YResolution": "72.0",
+        "HostComputer": "iPhone 15 Plus"
+      },
+      "has_mp_auxiliary_metadata": true,
+      "color_note": "HEIC extension but actual JPEG signature; SDR primary RGB image. Auxiliary gain-map metadata is not used.",
+      "source_color_profile": "Display P3",
+      "jpeg": "photos/IMG_8008.jpg",
+      "dimensions": [
+        4284,
+        5712
+      ],
+      "output_color": "8-bit SDR sRGB JPEG, converted from embedded Display P3 ICC"
+    },
+    {
+      "source": "source/IMG_8014.MOV",
+      "bytes": 20146753,
+      "sha256": "62b08594f31264eaca6e97eec0c382424e207dcc149ce8acef393861ba998a76",
+      "type": "video",
+      "probe": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "hevc",
+            "codec_long_name": "H.265 / HEVC (High Efficiency Video Coding)",
+            "profile": "Main 10",
+            "codec_type": "video",
+            "codec_time_base": "1/30",
+            "codec_tag_string": "hvc1",
+            "codec_tag": "0x31637668",
+            "width": 3840,
+            "height": 2160,
+            "coded_width": 3840,
+            "coded_height": 2160,
+            "has_b_frames": 2,
+            "pix_fmt": "yuv420p10le",
+            "level": 150,
+            "color_range": "tv",
+            "color_space": "bt2020nc",
+            "color_transfer": "arib-std-b67",
+            "color_primaries": "bt2020",
+            "refs": 1,
+            "r_frame_rate": "30/1",
+            "avg_frame_rate": "30/1",
+            "time_base": "1/600",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 2199,
+            "duration": "3.665000",
+            "bit_rate": "43704861",
+            "nb_frames": "110",
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0
+            },
+            "tags": {
+              "rotate": "90",
+              "creation_time": "2026-09-21T07:59:08.000000Z",
+              "language": "und",
+              "handler_name": "Core Media Video",
+              "encoder": "HEVC"
+            },
+            "side_data_list": [
+              {
+                "side_data_type": "Display Matrix",
+                "displaymatrix": "\n00000000:            0       65536           0\n00000001:       -65536           0           0\n00000002:    141557760           0  1073741824\n",
+                "rotation": -90
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_long_name": "AAC (Advanced Audio Coding)",
+            "profile": "LC",
+            "codec_type": "audio",
+            "codec_time_base": "1/48000",
+            "codec_tag_string": "mp4a",
+            "codec_tag": "0x6134706d",
+            "sample_fmt": "fltp",
+            "sample_rate": "48000",
+            "channels": 2,
+            "channel_layout": "stereo",
+            "bits_per_sample": 0,
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/48000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 175920,
+            "duration": "3.665000",
+            "bit_rate": "184443",
+            "max_bit_rate": "192000",
+            "nb_frames": "174",
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0
+            },
+            "tags": {
+              "creation_time": "2026-09-21T07:59:08.000000Z",
+              "language": "und",
+              "handler_name": "Core Media Audio"
+            }
+          }
+        ],
+        "format": {
+          "filename": "C:\\Users\\ryupc\\WorkSpace\\Mitou26\\AquaBeacon-OSS\\assets\\aquabeacon-film60\\media\\source\\IMG_8014.MOV",
+          "nb_streams": 2,
+          "nb_programs": 0,
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "format_long_name": "QuickTime / MOV",
+          "start_time": "0.000000",
+          "duration": "3.665000",
+          "size": "20146753",
+          "bit_rate": "43976541",
+          "probe_score": 100,
+          "tags": {
+            "major_brand": "qt  ",
+            "minor_version": "0",
+            "compatible_brands": "qt  ",
+            "creation_time": "2026-09-21T07:59:08.000000Z"
+          }
+        }
+      },
+      "duration_seconds": 3.665,
+      "review_times": [
+        0.2,
+        0.91625,
+        1.8325,
+        2.7487500000000002,
+        3.48175
+      ],
+      "thumb_sheet": "thumbs/IMG_8014_sheet.jpg",
+      "hdr_detected": true,
+      "selected_clip": {
+        "path": "selected_clips/harbor_full_sdr.mp4",
+        "source_start": 0,
+        "source_end": 3.665,
+        "tonemap": "Hable, linear npl=100, no desaturation, BT.709",
+        "format": "H.264 8-bit yuv420p BT.709 SDR, 30 fps, AAC",
+        "probe": {
+          "streams": [
+            {
+              "index": 0,
+              "codec_name": "h264",
+              "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+              "profile": "High",
+              "codec_type": "video",
+              "codec_time_base": "1/60",
+              "codec_tag_string": "avc1",
+              "codec_tag": "0x31637661",
+              "width": 1080,
+              "height": 1920,
+              "coded_width": 1088,
+              "coded_height": 1920,
+              "has_b_frames": 2,
+              "sample_aspect_ratio": "1:1",
+              "display_aspect_ratio": "9:16",
+              "pix_fmt": "yuv420p",
+              "level": 40,
+              "color_range": "tv",
+              "color_space": "bt709",
+              "color_transfer": "bt709",
+              "color_primaries": "bt709",
+              "chroma_location": "left",
+              "refs": 1,
+              "is_avc": "true",
+              "nal_length_size": "4",
+              "r_frame_rate": "30/1",
+              "avg_frame_rate": "30/1",
+              "time_base": "1/15360",
+              "start_pts": 0,
+              "start_time": "0.000000",
+              "duration_ts": 56320,
+              "duration": "3.666667",
+              "bit_rate": "51173247",
+              "bits_per_raw_sample": "8",
+              "nb_frames": "110",
+              "disposition": {
+                "default": 1,
+                "dub": 0,
+                "original": 0,
+                "comment": 0,
+                "lyrics": 0,
+                "karaoke": 0,
+                "forced": 0,
+                "hearing_impaired": 0,
+                "visual_impaired": 0,
+                "clean_effects": 0,
+                "attached_pic": 0,
+                "timed_thumbnails": 0
+              },
+              "tags": {
+                "language": "und",
+                "handler_name": "VideoHandler"
+              }
+            },
+            {
+              "index": 1,
+              "codec_name": "aac",
+              "codec_long_name": "AAC (Advanced Audio Coding)",
+              "profile": "LC",
+              "codec_type": "audio",
+              "codec_time_base": "1/48000",
+              "codec_tag_string": "mp4a",
+              "codec_tag": "0x6134706d",
+              "sample_fmt": "fltp",
+              "sample_rate": "48000",
+              "channels": 2,
+              "channel_layout": "stereo",
+              "bits_per_sample": 0,
+              "r_frame_rate": "0/0",
+              "avg_frame_rate": "0/0",
+              "time_base": "1/48000",
+              "start_pts": 0,
+              "start_time": "0.000000",
+              "duration_ts": 175920,
+              "duration": "3.665000",
+              "bit_rate": "162856",
+              "max_bit_rate": "162856",
+              "nb_frames": "173",
+              "disposition": {
+                "default": 1,
+                "dub": 0,
+                "original": 0,
+                "comment": 0,
+                "lyrics": 0,
+                "karaoke": 0,
+                "forced": 0,
+                "hearing_impaired": 0,
+                "visual_impaired": 0,
+                "clean_effects": 0,
+                "attached_pic": 0,
+                "timed_thumbnails": 0
+              },
+              "tags": {
+                "language": "und",
+                "handler_name": "SoundHandler"
+              }
+            }
+          ],
+          "format": {
+            "filename": "C:\\Users\\ryupc\\WorkSpace\\Mitou26\\AquaBeacon-OSS\\assets\\aquabeacon-film60\\media\\selected_clips\\harbor_full_sdr.mp4",
+            "nb_streams": 2,
+            "nb_programs": 0,
+            "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+            "format_long_name": "QuickTime / MOV",
+            "start_time": "0.000000",
+            "duration": "3.687000",
+            "size": "23534869",
+            "bit_rate": "51065622",
+            "probe_score": 100,
+            "tags": {
+              "major_brand": "isom",
+              "minor_version": "512",
+              "compatible_brands": "isomiso2avc1mp41",
+              "encoder": "Lavf58.29.100"
+            }
+          }
+        }
+      }
+    },
+    {
+      "source": "source/IMG_8027.HEIC",
+      "bytes": 3128217,
+      "sha256": "67c5bef1fe2f9331333fe3a95574aa40b01a59cf31c3322c99069f3fdf22cbea",
+      "type": "photo",
+      "actual_format": "JPEG",
+      "source_dimensions": [
+        5712,
+        4284
+      ],
+      "source_mode": "RGB",
+      "exif": {
+        "ResolutionUnit": "2",
+        "ExifOffset": "226",
+        "Make": "Apple",
+        "Model": "iPhone 15 Plus",
+        "Software": "26.5",
+        "Orientation": "1",
+        "DateTime": "2026:09:22 16:14:27",
+        "XResolution": "72.0",
+        "YResolution": "72.0",
+        "HostComputer": "iPhone 15 Plus"
+      },
+      "has_mp_auxiliary_metadata": true,
+      "color_note": "HEIC extension but actual JPEG signature; SDR primary RGB image. Auxiliary gain-map metadata is not used.",
+      "source_color_profile": "Display P3",
+      "jpeg": "photos/IMG_8027.jpg",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "output_color": "8-bit SDR sRGB JPEG, converted from embedded Display P3 ICC"
+    },
+    {
+      "source": "source/IMG_8036.HEIC",
+      "bytes": 3409949,
+      "sha256": "c90db6f5db2b48f67902c428c14c2ffcf8b110ff2bc73d1899130fcda278f6b6",
+      "type": "photo",
+      "actual_format": "JPEG",
+      "source_dimensions": [
+        4284,
+        5712
+      ],
+      "source_mode": "RGB",
+      "exif": {
+        "ResolutionUnit": "2",
+        "ExifOffset": "226",
+        "Make": "Apple",
+        "Model": "iPhone 15 Plus",
+        "Software": "26.5",
+        "Orientation": "1",
+        "DateTime": "2026:09:22 16:28:19",
+        "XResolution": "72.0",
+        "YResolution": "72.0",
+        "HostComputer": "iPhone 15 Plus"
+      },
+      "has_mp_auxiliary_metadata": true,
+      "color_note": "HEIC extension but actual JPEG signature; SDR primary RGB image. Auxiliary gain-map metadata is not used.",
+      "source_color_profile": "Display P3",
+      "jpeg": "photos/IMG_8036.jpg",
+      "dimensions": [
+        4284,
+        5712
+      ],
+      "output_color": "8-bit SDR sRGB JPEG, converted from embedded Display P3 ICC"
+    }
+  ],
+  "review": {
+    "archive_entries_checked": 11,
+    "photos_srgb_converted": 8,
+    "video_derivatives_verified": 3,
+    "contact_sheet": "contact_sheet.jpg",
+    "notes": "README.md",
+    "no_pool_or_seagrass_footage": true,
+    "facts_not_established": [
+      "autonomous operation",
+      "seagrass mapping accuracy",
+      "environmental improvement",
+      "location identity"
+    ],
+    "film_use": {
+      "46-49_seconds": {
+        "asset": "selected_clips/assembly_24-32_sdr.mp4",
+        "derivative_start": 5,
+        "derivative_end": 8,
+        "original_start": 29,
+        "original_end": 32
+      },
+      "49-51_seconds": {
+        "asset": "photos/IMG_8027.jpg"
+      },
+      "51-54_seconds": {
+        "asset": "selected_clips/harbor_full_sdr.mp4"
+      },
+      "opening_and_ending": {
+        "asset": "photos/IMG_7986.jpg"
+      }
+    }
+  }
+}

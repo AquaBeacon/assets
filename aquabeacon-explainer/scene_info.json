@@ -1,0 +1,10 @@
+{
+  "blender": "5.2.1 LTS",
+  "scene_fps": 24,
+  "clip_render_fps": 12,
+  "duration": 40,
+  "diagram_dimensions": [
+    1240,
+    1080
+  ]
+}

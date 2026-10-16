@@ -1,0 +1,282 @@
+{
+  "duration": 60,
+  "sample_rate": 48000,
+  "voice": "ja-JP-NanamiNeural",
+  "provider": "Microsoft Edge online TTS via edge-tts 7.2.8",
+  "synthetic_voice": true,
+  "cuts": [
+    {
+      "cut": 1,
+      "start": 0,
+      "end": 7,
+      "duration": 7,
+      "text": "海草や海藻が育つ、藻場。調査には、撮った場所が大切です。",
+      "spoken_text": "海草や海藻が育つ、もば。調査には、撮った場所が大切です。",
+      "file": "cut_01.wav",
+      "voice_file": "cut_01_voice.wav",
+      "voice_start": 0.4,
+      "voice_end": 6.4823,
+      "speech_start": 0.46,
+      "speech_end": 6.3414,
+      "leading_padding": 0.4,
+      "trailing_padding": 0.5177,
+      "tempo_factor": 1.0,
+      "tts_rate": "+0%",
+      "sentences": [
+        {
+          "start": 0.4,
+          "end": 3.604,
+          "spoken_text": "海草や海藻が育つ、もば。"
+        },
+        {
+          "start": 3.554,
+          "end": 6.482,
+          "spoken_text": "調査には、撮った場所が大切です。"
+        }
+      ]
+    },
+    {
+      "cut": 2,
+      "start": 7,
+      "end": 14,
+      "duration": 7,
+      "text": "でも水中では、GPSが使いにくく、海藻も揺れてしまいます。",
+      "spoken_text": "でも水中では、ジーピーエスが使いにくく、海藻も揺れてしまいます。",
+      "file": "cut_02.wav",
+      "voice_file": "cut_02_voice.wav",
+      "voice_start": 7.4,
+      "voice_end": 12.8902,
+      "speech_start": 7.4637,
+      "speech_end": 12.7502,
+      "leading_padding": 0.4,
+      "trailing_padding": 1.1098,
+      "tempo_factor": 1.0,
+      "tts_rate": "+0%",
+      "sentences": [
+        {
+          "start": 7.4,
+          "end": 12.89,
+          "spoken_text": "でも水中では、ジーピーエスが使いにくく、海藻も揺れてしまいます。"
+        }
+      ]
+    },
+    {
+      "cut": 3,
+      "start": 14,
+      "end": 19,
+      "duration": 5,
+      "text": "光と音を組み合わせる、AquaBeacon。",
+      "spoken_text": "光とおとを組み合わせる、アクアビーコン。",
+      "file": "cut_03.wav",
+      "voice_file": "cut_03_voice.wav",
+      "voice_start": 14.4,
+      "voice_end": 17.6164,
+      "speech_start": 14.4927,
+      "speech_end": 17.4655,
+      "leading_padding": 0.4,
+      "trailing_padding": 1.3836,
+      "tempo_factor": 1.0,
+      "tts_rate": "+0%",
+      "sentences": [
+        {
+          "start": 14.4,
+          "end": 17.616,
+          "spoken_text": "光とおとを組み合わせる、アクアビーコン。"
+        }
+      ]
+    },
+    {
+      "cut": 4,
+      "start": 19,
+      "end": 28,
+      "duration": 9,
+      "text": "水上の装置から音を送り、届くまでの時間で、水中の装置までの距離を測ります。",
+      "spoken_text": "水上の装置からおとを送り、届くまでの時間で、水中の装置までの距離を測ります。",
+      "file": "cut_04.wav",
+      "voice_file": "cut_04_voice.wav",
+      "voice_start": 19.4,
+      "voice_end": 26.3591,
+      "speech_start": 19.4606,
+      "speech_end": 26.2158,
+      "leading_padding": 0.4,
+      "trailing_padding": 1.6409,
+      "tempo_factor": 1.0,
+      "tts_rate": "+0%",
+      "sentences": [
+        {
+          "start": 19.4,
+          "end": 26.359,
+          "spoken_text": "水上の装置からおとを送り、届くまでの時間で、水中の装置までの距離を測ります。"
+        }
+      ]
+    },
+    {
+      "cut": 5,
+      "start": 28,
+      "end": 36,
+      "duration": 8,
+      "text": "水中のライトを、水上のカメラで捉え、方向を測ります。",
+      "spoken_text": "水中のライトを、水上のカメラで捉え、方向を測ります。",
+      "file": "cut_05.wav",
+      "voice_file": "cut_05_voice.wav",
+      "voice_start": 28.4,
+      "voice_end": 33.2999,
+      "speech_start": 28.4929,
+      "speech_end": 33.1571,
+      "leading_padding": 0.4,
+      "trailing_padding": 2.7001,
+      "tempo_factor": 1.0,
+      "tts_rate": "+0%",
+      "sentences": [
+        {
+          "start": 28.4,
+          "end": 33.3,
+          "spoken_text": "水中のライトを、水上のカメラで捉え、方向を測ります。"
+        }
+      ]
+    },
+    {
+      "cut": 6,
+      "start": 36,
+      "end": 46,
+      "duration": 10,
+      "text": "距離と方向、水上のGPSから、水中の位置を推定。撮った映像を、地図につなげます。",
+      "spoken_text": "距離と方向、水上のジーピーエスから、水中の位置を推定。撮った映像を、地図につなげます。",
+      "file": "cut_06.wav",
+      "voice_file": "cut_06_voice.wav",
+      "voice_start": 36.4,
+      "voice_end": 44.839,
+      "speech_start": 36.4618,
+      "speech_end": 44.6852,
+      "leading_padding": 0.4,
+      "trailing_padding": 1.161,
+      "tempo_factor": 1.0,
+      "tts_rate": "+0%",
+      "sentences": [
+        {
+          "start": 36.4,
+          "end": 42.16,
+          "spoken_text": "距離と方向、水上のジーピーエスから、水中の位置を推定。"
+        },
+        {
+          "start": 42.11,
+          "end": 44.839,
+          "spoken_text": "撮った映像を、地図につなげます。"
+        }
+      ]
+    },
+    {
+      "cut": 7,
+      "start": 46,
+      "end": 54,
+      "duration": 8,
+      "text": "機体の製作と実験を重ね、地図づくりに向けて、開発を進めています。",
+      "spoken_text": "機体の製作と実験を重ね、地図づくりに向けて、開発を進めています。",
+      "file": "cut_07.wav",
+      "voice_file": "cut_07_voice.wav",
+      "voice_start": 46.4,
+      "voice_end": 52.4317,
+      "speech_start": 46.46,
+      "speech_end": 52.2779,
+      "leading_padding": 0.4,
+      "trailing_padding": 1.5683,
+      "tempo_factor": 1.0,
+      "tts_rate": "+0%",
+      "sentences": [
+        {
+          "start": 46.4,
+          "end": 52.432,
+          "spoken_text": "機体の製作と実験を重ね、地図づくりに向けて、開発を進めています。"
+        }
+      ]
+    },
+    {
+      "cut": 8,
+      "start": 54,
+      "end": 60,
+      "duration": 6,
+      "text": "藻場を調べる人たちへ。AquaBeacon。",
+      "spoken_text": "もばを調べる人たちへ。アクアビーコン。",
+      "file": "cut_08.wav",
+      "voice_file": "cut_08_voice.wav",
+      "voice_start": 54.4,
+      "voice_end": 58.2835,
+      "speech_start": 54.46,
+      "speech_end": 58.1431,
+      "leading_padding": 0.4,
+      "trailing_padding": 1.7165,
+      "tempo_factor": 1.0,
+      "tts_rate": "+0%",
+      "sentences": [
+        {
+          "start": 54.4,
+          "end": 57.027,
+          "spoken_text": "もばを調べる人たちへ。"
+        },
+        {
+          "start": 56.977,
+          "end": 58.284,
+          "spoken_text": "アクアビーコン。"
+        }
+      ]
+    }
+  ],
+  "files": {
+    "narration": "narration_60s.wav",
+    "mix": "mix_60s.wav",
+    "bgm": "bgm_original_60s.wav",
+    "sfx": "sfx_60s.wav",
+    "background": "music_and_sfx_60s.wav"
+  },
+  "endcard_subtitle_note": "仕組みの公開を目指す — final narration omits the publication aspiration to leave space for the closing logo.",
+  "checks": {
+    "narration_60s.wav": {
+      "duration_s": 60.0,
+      "sample_rate": 48000,
+      "channels": 1,
+      "peak_dbfs": -4.641,
+      "clipped_samples": 0,
+      "integrated_lufs": -18.82,
+      "true_peak_dbtp": -4.61,
+      "loudness_range_lu": 3.5
+    },
+    "bgm_original_60s.wav": {
+      "duration_s": 60.0,
+      "sample_rate": 48000,
+      "channels": 2,
+      "peak_dbfs": -21.173,
+      "clipped_samples": 0,
+      "integrated_lufs": -32.99,
+      "true_peak_dbtp": -21.17,
+      "loudness_range_lu": 1.1
+    },
+    "sfx_60s.wav": {
+      "duration_s": 60.0,
+      "sample_rate": 48000,
+      "channels": 2,
+      "peak_dbfs": -27.97,
+      "clipped_samples": 0,
+      "integrated_lufs": -39.48,
+      "true_peak_dbtp": -27.97,
+      "loudness_range_lu": 4.2
+    },
+    "music_and_sfx_60s.wav": {
+      "duration_s": 60.0,
+      "sample_rate": 48000,
+      "channels": 2,
+      "peak_dbfs": -21.173,
+      "clipped_samples": 0
+    },
+    "mix_60s.wav": {
+      "duration_s": 60.0,
+      "sample_rate": 48000,
+      "channels": 2,
+      "peak_dbfs": -4.721,
+      "clipped_samples": 0,
+      "integrated_lufs": -15.76,
+      "true_peak_dbtp": -4.7,
+      "loudness_range_lu": 3.8
+    }
+  },
+  "quality_notes": "Not performed: this agent environment cannot ingest audio. Waveform, TTS sentence metadata, pronunciation spellings and measured levels were verified."
+}

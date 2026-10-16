@@ -1,0 +1,153 @@
+[
+  {
+    "cut": 1,
+    "start": 0,
+    "end": 7,
+    "text": "海草や海藻が育つ、藻場。調査には、撮った場所が大切です。",
+    "spoken_text": "海草や海藻が育つ、もば。調査には、撮った場所が大切です。",
+    "voice": "ja-JP-NanamiNeural",
+    "rate": "+0%",
+    "raw_file": "cut_01_raw.mp3",
+    "boundaries": [
+      {
+        "offset": 1000000,
+        "duration": 32625000,
+        "text": "海草や海藻が育つ、もば。"
+      },
+      {
+        "offset": 33125000,
+        "duration": 35875000,
+        "text": "調査には、撮った場所が大切です。"
+      }
+    ]
+  },
+  {
+    "cut": 2,
+    "start": 7,
+    "end": 14,
+    "text": "でも水中では、GPSが使いにくく、海藻も揺れてしまいます。",
+    "spoken_text": "でも水中では、ジーピーエスが使いにくく、海藻も揺れてしまいます。",
+    "voice": "ja-JP-NanamiNeural",
+    "rate": "+0%",
+    "raw_file": "cut_02_raw.mp3",
+    "boundaries": [
+      {
+        "offset": 1000000,
+        "duration": 62000000,
+        "text": "でも水中では、ジーピーエスが使いにくく、海藻も揺れてしまいます。"
+      }
+    ]
+  },
+  {
+    "cut": 3,
+    "start": 14,
+    "end": 19,
+    "text": "光と音を組み合わせる、AquaBeacon。",
+    "spoken_text": "光とおとを組み合わせる、アクアビーコン。",
+    "voice": "ja-JP-NanamiNeural",
+    "rate": "+0%",
+    "raw_file": "cut_03_raw.mp3",
+    "boundaries": [
+      {
+        "offset": 1000000,
+        "duration": 39250000,
+        "text": "光とおとを組み合わせる、アクアビーコン。"
+      }
+    ]
+  },
+  {
+    "cut": 4,
+    "start": 19,
+    "end": 28,
+    "text": "水上の装置から音を送り、届くまでの時間で、水中の装置までの距離を測ります。",
+    "spoken_text": "水上の装置からおとを送り、届くまでの時間で、水中の装置までの距離を測ります。",
+    "voice": "ja-JP-NanamiNeural",
+    "rate": "+0%",
+    "raw_file": "cut_04_raw.mp3",
+    "boundaries": [
+      {
+        "offset": 1000000,
+        "duration": 76750000,
+        "text": "水上の装置からおとを送り、届くまでの時間で、水中の装置までの距離を測ります。"
+      }
+    ]
+  },
+  {
+    "cut": 5,
+    "start": 28,
+    "end": 36,
+    "text": "水中のライトを、水上のカメラで捉え、方向を測ります。",
+    "spoken_text": "水中のライトを、水上のカメラで捉え、方向を測ります。",
+    "voice": "ja-JP-NanamiNeural",
+    "rate": "+0%",
+    "raw_file": "cut_05_raw.mp3",
+    "boundaries": [
+      {
+        "offset": 1000000,
+        "duration": 56125000,
+        "text": "水中のライトを、水上のカメラで捉え、方向を測ります。"
+      }
+    ]
+  },
+  {
+    "cut": 6,
+    "start": 36,
+    "end": 46,
+    "text": "距離と方向、水上のGPSから、水中の位置を推定。撮った映像を、地図につなげます。",
+    "spoken_text": "距離と方向、水上のジーピーエスから、水中の位置を推定。撮った映像を、地図につなげます。",
+    "voice": "ja-JP-NanamiNeural",
+    "rate": "+0%",
+    "raw_file": "cut_06_raw.mp3",
+    "boundaries": [
+      {
+        "offset": 1000000,
+        "duration": 58125000,
+        "text": "距離と方向、水上のジーピーエスから、水中の位置を推定。"
+      },
+      {
+        "offset": 58625000,
+        "duration": 33750000,
+        "text": "撮った映像を、地図につなげます。"
+      }
+    ]
+  },
+  {
+    "cut": 7,
+    "start": 46,
+    "end": 54,
+    "text": "機体の製作と実験を重ね、地図づくりに向けて、開発を進めています。",
+    "spoken_text": "機体の製作と実験を重ね、地図づくりに向けて、開発を進めています。",
+    "voice": "ja-JP-NanamiNeural",
+    "rate": "+0%",
+    "raw_file": "cut_07_raw.mp3",
+    "boundaries": [
+      {
+        "offset": 1000000,
+        "duration": 67875000,
+        "text": "機体の製作と実験を重ね、地図づくりに向けて、開発を進めています。"
+      }
+    ]
+  },
+  {
+    "cut": 8,
+    "start": 54,
+    "end": 60,
+    "text": "藻場を調べる人たちへ。AquaBeacon。",
+    "spoken_text": "もばを調べる人たちへ。アクアビーコン。",
+    "voice": "ja-JP-NanamiNeural",
+    "rate": "+0%",
+    "raw_file": "cut_08_raw.mp3",
+    "boundaries": [
+      {
+        "offset": 1000000,
+        "duration": 26500000,
+        "text": "もばを調べる人たちへ。"
+      },
+      {
+        "offset": 27000000,
+        "duration": 19250000,
+        "text": "アクアビーコン。"
+      }
+    ]
+  }
+]

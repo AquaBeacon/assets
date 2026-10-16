@@ -1,0 +1,42 @@
+{
+  "status": "PASS",
+  "checks": [
+    "Cut 01: exact duration, 48 kHz PCM, leading/trailing silence, no clipping, original TTS rate PASS",
+    "Cut 02: exact duration, 48 kHz PCM, leading/trailing silence, no clipping, original TTS rate PASS",
+    "Cut 03: exact duration, 48 kHz PCM, leading/trailing silence, no clipping, original TTS rate PASS",
+    "Cut 04: exact duration, 48 kHz PCM, leading/trailing silence, no clipping, original TTS rate PASS",
+    "Cut 05: exact duration, 48 kHz PCM, leading/trailing silence, no clipping, original TTS rate PASS",
+    "Cut 06: exact duration, 48 kHz PCM, leading/trailing silence, no clipping, original TTS rate PASS",
+    "Cut 07: exact duration, 48 kHz PCM, leading/trailing silence, no clipping, original TTS rate PASS",
+    "Cut 08: exact duration, 48 kHz PCM, leading/trailing silence, no clipping, original TTS rate PASS",
+    {
+      "mix_60s.wav": {
+        "integrated_lufs": -15.76,
+        "true_peak_dbtp": -4.7,
+        "loudness_range_lu": 3.8
+      }
+    },
+    {
+      "narration_60s.wav": {
+        "integrated_lufs": -18.82,
+        "true_peak_dbtp": -4.61,
+        "loudness_range_lu": 3.5
+      }
+    },
+    {
+      "bgm_original_60s.wav": {
+        "integrated_lufs": -32.99,
+        "true_peak_dbtp": -21.17,
+        "loudness_range_lu": 1.1
+      }
+    },
+    {
+      "sfx_60s.wav": {
+        "integrated_lufs": -39.48,
+        "true_peak_dbtp": -27.97,
+        "loudness_range_lu": 4.2
+      }
+    }
+  ],
+  "listening_review": "Not performed: this agent environment cannot ingest audio. Waveform, TTS sentence metadata, pronunciation spellings and measured levels were verified."
+}

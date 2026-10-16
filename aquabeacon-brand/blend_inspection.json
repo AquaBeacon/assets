@@ -1,0 +1,70 @@
+{
+  "blender_version": "5.2.1 LTS",
+  "animation_frames": [
+    1,
+    150
+  ],
+  "fps": 30,
+  "final_hold_identical_at_frames": [
+    98,
+    99,
+    120,
+    150
+  ],
+  "embedded_fonts": [
+    {
+      "name": "DM Mono Regular",
+      "embedded": true
+    },
+    {
+      "name": "DM Mono Regular.001",
+      "embedded": true
+    },
+    {
+      "name": "Instrument Sans Regular",
+      "embedded": true
+    },
+    {
+      "name": "Instrument Sans Regular.001",
+      "embedded": true
+    }
+  ],
+  "scenes": [
+    {
+      "name": "01 · AquaBeacon / Animation",
+      "objects": 17,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "transparent": false
+    },
+    {
+      "name": "02 · App icon",
+      "objects": 12,
+      "resolution": [
+        1024,
+        1024
+      ],
+      "transparent": true
+    },
+    {
+      "name": "03 · Symbol transparent",
+      "objects": 11,
+      "resolution": [
+        1024,
+        1024
+      ],
+      "transparent": true
+    },
+    {
+      "name": "04 · Logo transparent",
+      "objects": 13,
+      "resolution": [
+        2400,
+        900
+      ],
+      "transparent": true
+    }
+  ]
+}

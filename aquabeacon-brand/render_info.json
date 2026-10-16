@@ -1,0 +1,11 @@
+{
+  "blender": "5.2.1 LTS",
+  "fps": 30,
+  "frames": 150,
+  "duration_seconds": 5,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "active_scene": "01 · AquaBeacon / Animation"
+}

@@ -1,0 +1,87 @@
+{
+  "sample_rate": 48000,
+  "duration": 60,
+  "channels": 2,
+  "bits_per_sample": 16,
+  "bgm": "bgm_original_60s.wav",
+  "sfx": "sfx_60s.wav",
+  "combined": "music_and_sfx_60s.wav",
+  "sfx_events": [
+    {
+      "name": "sound_transmit",
+      "start": 20.0,
+      "duration": 0.9,
+      "file": "sfx_sound_transmit.wav"
+    },
+    {
+      "name": "sound_arrival",
+      "start": 25.0,
+      "duration": 0.9,
+      "file": "sfx_sound_arrival.wav"
+    },
+    {
+      "name": "light_on",
+      "start": 29.0,
+      "duration": 1.1,
+      "file": "sfx_light_on.wav"
+    },
+    {
+      "name": "map_record",
+      "start": 40.5,
+      "duration": 0.9,
+      "file": "sfx_map_record.wav"
+    }
+  ],
+  "provenance": "Original procedural synthesis created for AquaBeacon; no third-party music, samples or recordings.",
+  "checks": {
+    "bgm_original_60s.wav": {
+      "duration_s": 60.0,
+      "sample_rate": 48000,
+      "channels": 2,
+      "peak_dbfs": -21.173,
+      "clipped_samples": 0
+    },
+    "sfx_60s.wav": {
+      "duration_s": 60.0,
+      "sample_rate": 48000,
+      "channels": 2,
+      "peak_dbfs": -27.97,
+      "clipped_samples": 0
+    },
+    "music_and_sfx_60s.wav": {
+      "duration_s": 60.0,
+      "sample_rate": 48000,
+      "channels": 2,
+      "peak_dbfs": -21.173,
+      "clipped_samples": 0
+    },
+    "sfx_light_on.wav": {
+      "duration_s": 1.1,
+      "sample_rate": 48000,
+      "channels": 2,
+      "peak_dbfs": -31.731,
+      "clipped_samples": 0
+    },
+    "sfx_map_record.wav": {
+      "duration_s": 0.9,
+      "sample_rate": 48000,
+      "channels": 2,
+      "peak_dbfs": -33.187,
+      "clipped_samples": 0
+    },
+    "sfx_sound_arrival.wav": {
+      "duration_s": 0.9,
+      "sample_rate": 48000,
+      "channels": 2,
+      "peak_dbfs": -28.945,
+      "clipped_samples": 0
+    },
+    "sfx_sound_transmit.wav": {
+      "duration_s": 0.9,
+      "sample_rate": 48000,
+      "channels": 2,
+      "peak_dbfs": -27.97,
+      "clipped_samples": 0
+    }
+  }
+}

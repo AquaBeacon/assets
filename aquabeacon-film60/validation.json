@@ -1,0 +1,34 @@
+{
+  "programs": [],
+  "streams": [
+    {
+      "codec_name": "h264",
+      "codec_type": "video",
+      "width": 1920,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "r_frame_rate": "30/1",
+      "nb_read_frames": "1800"
+    },
+    {
+      "codec_name": "aac",
+      "codec_type": "audio",
+      "sample_rate": "48000",
+      "channels": 2,
+      "r_frame_rate": "0/0",
+      "nb_read_frames": "2813"
+    }
+  ],
+  "format": {
+    "duration": "60.022000",
+    "size": "18257331"
+  },
+  "checks": {
+    "duration_60s": true,
+    "frames_1800": true,
+    "full_decode": true,
+    "caption_events": 8,
+    "blender_diagram": true,
+    "supplied_media_used": true
+  }
+}

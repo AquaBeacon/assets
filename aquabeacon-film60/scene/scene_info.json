@@ -1,0 +1,17 @@
+{
+  "fps": 30,
+  "size": [
+    1300,
+    1080
+  ],
+  "modes": {
+    "meadow": 120,
+    "gps": 72,
+    "overview": 72,
+    "sound": 72,
+    "light": 72,
+    "position": 72,
+    "mapping": 120
+  },
+  "blender": "5.2.1 LTS"
+}

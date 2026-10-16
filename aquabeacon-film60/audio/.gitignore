@@ -1,0 +1,4 @@
+tooling/
+__pycache__/
+cut_*_raw.wav
+cut_*_trim.wav

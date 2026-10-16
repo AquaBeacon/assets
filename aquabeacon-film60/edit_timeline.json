@@ -1,0 +1,190 @@
+[
+  {
+    "id": "00_coast",
+    "start": 0,
+    "duration": 2,
+    "type": "photo",
+    "source": "IMG_7986",
+    "title": [
+      "海の中の、どこ？"
+    ],
+    "detail": [
+      "藻場の広がりを、知るために。"
+    ]
+  },
+  {
+    "id": "01_meadow",
+    "start": 2,
+    "duration": 5,
+    "type": "diagram",
+    "mode": "meadow",
+    "eyebrow": "海を調べるために",
+    "title": [
+      "海草や海藻が",
+      "育つ「藻場」"
+    ],
+    "detail": [
+      "撮った場所が分かれば、",
+      "調査の手がかりになる。"
+    ],
+    "color": "#8ED8A5"
+  },
+  {
+    "id": "02_gps",
+    "start": 7,
+    "duration": 7,
+    "type": "diagram",
+    "mode": "gps",
+    "eyebrow": "水中の位置情報",
+    "title": [
+      "水中では、",
+      "位置が",
+      "分かりにくい。"
+    ],
+    "detail": [
+      "GPSが使いにくい。",
+      "海藻の目印も揺れる。"
+    ],
+    "color": "#F0F7F8"
+  },
+  {
+    "id": "03_intro",
+    "start": 14,
+    "duration": 5,
+    "type": "diagram",
+    "mode": "overview",
+    "eyebrow": "AQUABEACON",
+    "title": [
+      "光と音を、",
+      "組み合わせる。"
+    ],
+    "detail": [
+      "水上の装置と",
+      "水中の装置をつなぐ。"
+    ],
+    "color": "#20D9D2"
+  },
+  {
+    "id": "04_sound",
+    "start": 19,
+    "duration": 9,
+    "type": "diagram",
+    "mode": "sound",
+    "eyebrow": "ふたつの手がかり  01",
+    "title": [
+      "音で、",
+      "距離を測る。"
+    ],
+    "detail": [
+      "音が届くまでの時間から、",
+      "どれだけ離れたかを知る。"
+    ],
+    "color": "#F3B44E"
+  },
+  {
+    "id": "05_light",
+    "start": 28,
+    "duration": 8,
+    "type": "diagram",
+    "mode": "light",
+    "eyebrow": "ふたつの手がかり  02",
+    "title": [
+      "光で、",
+      "方向を測る。"
+    ],
+    "detail": [
+      "水中のライトを、",
+      "水上のカメラで捉える。"
+    ],
+    "color": "#20D9D2"
+  },
+  {
+    "id": "06_position",
+    "start": 36,
+    "duration": 6,
+    "type": "diagram",
+    "mode": "position",
+    "eyebrow": "位置を推定する",
+    "title": [
+      "距離と方向。",
+      "水中の位置へ。"
+    ],
+    "detail": [
+      "水上のGPSも組み合わせる。"
+    ],
+    "color": "#20D9D2"
+  },
+  {
+    "id": "07_mapping",
+    "start": 42,
+    "duration": 4,
+    "type": "diagram",
+    "mode": "mapping",
+    "eyebrow": "地図づくりへ",
+    "title": [
+      "映像と位置を、",
+      "結びつける。"
+    ],
+    "detail": [
+      "撮影したデータを記録。",
+      "後処理で、3Dの地図へ。"
+    ],
+    "color": "#8ED8A5"
+  },
+  {
+    "id": "08_assembly",
+    "start": 46,
+    "duration": 3,
+    "type": "video",
+    "source": "assembly_24-32_sdr.mp4",
+    "ss": 5,
+    "title": [
+      "つくって、確かめる。"
+    ],
+    "detail": [
+      "機体の組立"
+    ]
+  },
+  {
+    "id": "09_hardware",
+    "start": 49,
+    "duration": 2,
+    "type": "photo",
+    "source": "IMG_8027",
+    "title": [
+      "つくって、確かめる。"
+    ],
+    "detail": [
+      "試作機の準備"
+    ]
+  },
+  {
+    "id": "10_field",
+    "start": 51,
+    "duration": 3,
+    "type": "portrait",
+    "source": "harbor_full_sdr.mp4",
+    "ss": 0.2,
+    "title": [
+      "地図づくりへ。",
+      "開発は、続く。"
+    ],
+    "detail": [
+      "水上での機体の様子",
+      "位置推定・マッピングを開発中"
+    ]
+  },
+  {
+    "id": "11_end",
+    "start": 54,
+    "duration": 6,
+    "type": "end",
+    "source": "IMG_7986",
+    "title": [
+      "藻場を調べる人たちへ。"
+    ],
+    "detail": [
+      "光と音で、水中の位置を知る。"
+    ]
+  }
+]

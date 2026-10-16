@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "start": 0.32,
+    "end": 6.7823,
+    "image": "overlays/caption_01.png",
+    "text": "海草や海藻が育つ、藻場。調査には、撮った場所が大切です。"
+  },
+  {
+    "id": 2,
+    "start": 7.32,
+    "end": 13.1902,
+    "image": "overlays/caption_02.png",
+    "text": "でも水中では、GPSが使いにくく、海藻も揺れてしまいます。"
+  },
+  {
+    "id": 3,
+    "start": 14.32,
+    "end": 17.9164,
+    "image": "overlays/caption_03.png",
+    "text": "光と音を組み合わせる、AquaBeacon。"
+  },
+  {
+    "id": 4,
+    "start": 19.32,
+    "end": 26.659100000000002,
+    "image": "overlays/caption_04.png",
+    "text": "水上の装置から音を送り、届くまでの時間で、\n水中の装置までの距離を測ります。"
+  },
+  {
+    "id": 5,
+    "start": 28.32,
+    "end": 33.5999,
+    "image": "overlays/caption_05.png",
+    "text": "水中のライトを、水上のカメラで捉え、方向を測ります。"
+  },
+  {
+    "id": 6,
+    "start": 36.32,
+    "end": 45.138999999999996,
+    "image": "overlays/caption_06.png",
+    "text": "距離と方向、水上のGPSから、水中の位置を推定。\n撮った映像を、地図につなげます。"
+  },
+  {
+    "id": 7,
+    "start": 46.32,
+    "end": 52.7317,
+    "image": "overlays/caption_07.png",
+    "text": "機体の製作と実験を重ね、\n地図づくりに向けて、開発を進めています。"
+  },
+  {
+    "id": 8,
+    "start": 54.32,
+    "end": 58.583499999999994,
+    "image": "overlays/caption_08.png",
+    "text": "藻場を調べる人たちへ。AquaBeacon。"
+  }
+]
